@@ -1,3 +1,4 @@
 class Dog
-  initialize(name)
+  initialize(name, breed)
+  
   
