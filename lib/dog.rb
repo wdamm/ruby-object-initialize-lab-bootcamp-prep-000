@@ -1,4 +1,8 @@
 class Dog
-  initialize(name, breed)
-  
+  initialize(name, breed = "Mutt")
+  @name = name
+  @breed = breed
+end
+
+end
   
